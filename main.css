@@ -10,7 +10,7 @@ html {
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    width: 400px;
+    width: 500px;
 }
 
 .calculator-screen {
@@ -30,9 +30,10 @@ button {
     font-size: 2rem!important;
 }
 
-.equal-sign {
+.btn-equal {
     height: 98%;
     grid-area: 2 / 4 / 6 / 5;
+    background-color: aquamarine;
   }
   
 .calculator-keys {
