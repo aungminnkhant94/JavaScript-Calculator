@@ -3,6 +3,10 @@ html {
     box-sizing: border-box;
 }
 
+body {
+    background-color: darkgoldenrod;
+}
+
 #calculator {
     border: 1px solid #ccc;
     border-radius: 5px;

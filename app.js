@@ -1,4 +1,3 @@
-//Wrap code in an IIFE
 (function(){
   
     let screen = document.querySelector('.calculator-screen');
@@ -27,4 +26,4 @@
       screen.value = '';
     })
    
-  })(); //end IIFE
+  })(); 
